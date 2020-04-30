@@ -1,7 +1,11 @@
 {
   "name": "pcf-project",
+  "author": {
+    "name": "Paul Breuler"
+  },
+  "license": "MIT",
   "version": "1.0.0",
-  "description": "Project containing your PowerApps Component Framework (PCF) control.",
+  "description": "A very simple React based PCF project for quick templating.",
   "scripts": {
     "build": "pcf-scripts build",
     "clean": "pcf-scripts clean",
